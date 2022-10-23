@@ -1,1 +1,1 @@
-web: gunicorn myapi.wsgi asdasdasd
+web: gunicorn myapi.wsgi
